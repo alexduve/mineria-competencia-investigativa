@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+nbformat
+ipython
+# Dependencias opcionales (el motor degrada y lo declara si faltan):
+spacy            # + modelo: python -m spacy download es_core_news_md
+sentence-transformers   # modelo: paraphrase-multilingual-MiniLM-L12-v2
+hdbscan
+scikit-learn
+scipy
